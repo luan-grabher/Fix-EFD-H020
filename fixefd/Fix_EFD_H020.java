@@ -1,4 +1,4 @@
-package fixbrondaniefd;
+package fixefd;
 
 import fileManager.FileManager;
 import fileManager.Selector;
